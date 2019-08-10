@@ -1,0 +1,9 @@
+{
+  "name": "elf-admin-umi",
+  "version": "0.0.1",
+  "description": "elf-admin-umi",
+  "main": "index.js",
+  "repository": "git@github.com:elf-fed/elf-admin-umi.git",
+  "author": "yanxiaodi <929213769@qq.com>",
+  "license": "MIT"
+}
