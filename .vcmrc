@@ -1,0 +1,15 @@
+{
+  "types": ["feat", "fix", "docs", "style", "refactor", "perf", "test", "build", "ci", "chore", "revert"],
+  "scope": {
+    "required": false,
+    "allowed": ["*"],
+    "validate": false,
+    "multiple": false
+  },
+  "warnOnFail": false,
+  "maxSubjectLength": 100,
+  "subjectPattern": ".+",
+  "subjectPatternErrorMsg": "请输入正确的 git commit描述!",
+  "helpMessage": "你的 Commit message 格式错误 \n 请使用 'git cz'命令描述 commit！ \n请查看规范: https://github.com/conventional-changelog-archived-repos/validate-commit-msg",
+  "autoFix": false
+}
